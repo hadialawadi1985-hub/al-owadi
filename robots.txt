@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hadialawadi1985-hub.github.io/al-owadi/sitemap.xml
